@@ -59,6 +59,9 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
+  image10:
+    alt: Majom vagy
+    image: /img/products-grid1.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
