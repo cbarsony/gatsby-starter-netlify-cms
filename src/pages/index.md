@@ -45,7 +45,7 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
     - image: /img/blog-index.jpg
-      text: Egy kettő
+      text: Egy kettő három
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -67,5 +67,8 @@ main:
     image: /img/products-grid2.jpg
   image3:
     alt: Coffee beans
+    image: /img/products-grid1.jpg
+  image123:
+    alt: Csati
     image: /img/products-grid1.jpg
 ---
