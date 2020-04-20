@@ -37,6 +37,9 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
+    - image: /img/meeting-space.png
+      text: >
+        majom majom majom
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -59,7 +62,7 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
-  image10:
+  image4:
     alt: Majom vagy
     image: /img/products-grid1.jpg
 testimonials:
